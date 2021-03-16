@@ -2,4 +2,4 @@
 
 Resultado final del cálculo de distancias de centros de salud del sur de Madrid
 
-[!ResultadoFinal](./images.jpg)
+![ResultadoFinal](https://github.com/libertadcc/centrosSalud/blob/main/image.png)
